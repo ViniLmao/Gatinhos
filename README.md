@@ -1,6 +1,3 @@
-# Gatinhos
-Site de gato kekw
-Como não sei configurar a html aqui dentro vou deixar o codigo da primeira pagina que fiz com 5 horas de curso
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +11,7 @@ Como não sei configurar a html aqui dentro vou deixar o codigo da primeira pagi
     <style>
         body
         {
-            background-color: darkorange;
+            background-color: yellowgreen;
         }
         h1
         {
