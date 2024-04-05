@@ -95,8 +95,3 @@ Em resumo, os gatos são animais importantes por muitas razões diferentes. Eles
 </p>
 </body>
 </html>
-
-<p>
-    <h4><a href="http://adoteumgatinho.com.br/">Adote um gatinho</a></h4>
-    <h4><a href="https://www.adotepetz.com.br/">Adote petz
-    <h4><a href="https://www.amigonaosecompra.com.br/">AmigoNãoSeCompra</a></h4>
